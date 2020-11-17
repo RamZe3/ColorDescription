@@ -1,0 +1,4 @@
+com/example/colordescription/BuildConfig.java
+ com.example.colordescription.BuildConfig
+com/example/colordescription/MainActivity.java
+ com.example.colordescription.MainActivity
